@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
 <h3 align="center">A passionate Data Analytics & Machine Learning Enthusiast from India</h3>
 
-- 👨‍💻 To know more about me visit([deepaksingh.com](https://dk1coding1zone-ai-oriented-portfolio-app1-s4qbdb.streamlit.app/))
+- 👨‍💻 To know more about me visit :([deepaksinghportfolio.com](https://dk1coding1zone-ai-oriented-portfolio-app1-s4qbdb.streamlit.app/))
 
 - 📫 How to reach me **deepaksinghnitsurat@gmail.com**
 
